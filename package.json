@@ -1,5 +1,6 @@
 {
-  "name": "footspot",
+  "homepage": "http://dev-prem.me/foodspot-react/",
+  "name": "foodspot",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
